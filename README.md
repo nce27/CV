@@ -1,4 +1,4 @@
-## Your Name
+## Noah Cayenne-Elliott
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -45,7 +45,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (1/04/23 to 1/08/23)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -60,7 +60,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Trinity Guildhall Drum Kit Grades 1-6
 
 That in some arguable way make you a better software developer or well-rounded person
 
